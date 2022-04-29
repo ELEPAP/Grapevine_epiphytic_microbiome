@@ -1,3 +1,0 @@
-	Kingdom	Phylum	Class	Order	Family	Genus
-ASV00059	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA
-ASV00086	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA
