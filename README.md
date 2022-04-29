@@ -18,7 +18,7 @@ In the case of the computational methods, with the "Grapevine_epiphytic_microbio
 Steps 1-3 concern the data retrieval from NCBI and preprocessing, while steps 4-6 concern the actual data analysis for total fungi and bacteria. 
 
 1) First, it is necessary to download the sequencing data.
-To do so, you need to enter the "0.DownloadData" subfolder of e.g. the "Fungi" and execute the "fetch_data.sh" bash script (this assumes that you are located at the working directory "Grapevine_wood_microbiome-").
+To do so, you need to enter the "0.DownloadData" subfolder of e.g. the "Fungi" and execute the "fetch_data.sh" bash script (this assumes that you are located at the working directory "Grapevine_epiphytic_microbiome-").
 The script is based on the SRR accession numbers found in the 0.DownloadData folder.
 Once the download is done, you need to combine all forward reads to a single file and all reverse reads to another file as well.
 for i in {1..3}
@@ -115,12 +115,10 @@ cd Fungi/3.DataAnalysis/RandomForests
 Rscript RandomForests.R
 cd ../../../
 
-5) Pathogenic fungi, linked to the grapevine trunk decline (GTD) complex, were selected as described in the manuscript.
 
-6) Network analysis was performed no attempt and identify links among the GTD complex members and between the complex and the rest fungi and total bacteria. run the following
+
 
 cd NetWork
-cp ../PathogenicFungiObjectPrep/PathogenASVsFull.RDS ./
 cp ../Fungi/2.PhyloseqObjectPrep/FUNGIFINALWOOD.RDS ./
 cp ../Bacteria/2.PhyloseqObjectPrep/BACTERIAFINALWOOD.RDS ./
 Rscript network_vine_wood.R
