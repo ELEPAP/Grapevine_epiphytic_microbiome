@@ -1,0 +1,209 @@
+	mynms	Cultivar	Terroir_unit	Viticultural_Zones	plant_num	plant_part	comb_num	Vintage
+F1	AA1_2020	Agiorgitiko		Athens	Rep.1	Leaves	AA1	VINTAGE_2020
+F10	VA4_2020	Vidiano		Athens	Rep.4	Leaves	VA4	VINTAGE_2020
+F12	VA5_2020	Vidiano		Athens	Rep.5	Leaves	VA5	VINTAGE_2020
+F13	AT1_2020	Agiorgitiko		Thessaloniki	Rep.1	Leaves	AT1	VINTAGE_2020
+F14	AT2_2020	Agiorgitiko		Thessaloniki	Rep.2	Leaves	AT2	VINTAGE_2020
+F15	AT3_2020	Agiorgitiko		Thessaloniki	Rep.3	Leaves	AT3	VINTAGE_2020
+F16	AT4_2020	Agiorgitiko		Thessaloniki	Rep.4	Leaves	AT4	VINTAGE_2020
+F17	AT5_2020	Agiorgitiko		Thessaloniki	Rep.5	Leaves	AT5	VINTAGE_2020
+F18	VT1_2020	Vidiano		Thessaloniki	Rep.1	Leaves	VT1	VINTAGE_2020
+F19	VT2_2020	Vidiano		Thessaloniki	Rep.2	Leaves	VT2	VINTAGE_2020
+F2	AA2_2020	Agiorgitiko		Athens	Rep.2	Leaves	AA2	VINTAGE_2020
+F20	VT3_2020	Vidiano		Thessaloniki	Rep.3	Leaves	VT3	VINTAGE_2020
+F21	VT4_2020	Vidiano		Thessaloniki	Rep.4	Leaves	VT4	VINTAGE_2020
+F22	VT5_2020	Vidiano		Thessaloniki	Rep.5	Leaves	VT5	VINTAGE_2020
+F28	RA1_2020	Roditis	RoditisTerA	Aigialeia	Rep.1	Leaves	RA1	VINTAGE_2020
+F29	RA2_2020	Roditis	RoditisTerA	Aigialeia	Rep.2	Leaves	RA2	VINTAGE_2020
+F3	AA3_2020	Agiorgitiko		Athens	Rep.3	Leaves	AA3	VINTAGE_2020
+F30	RA3_2020	Roditis	RoditisTerA	Aigialeia	Rep.3	Leaves	RA3	VINTAGE_2020
+F31	RA4_2020	Roditis	RoditisTerA	Aigialeia	Rep.4	Leaves	RA4	VINTAGE_2020
+F32	RA5_2020	Roditis	RoditisTerA	Aigialeia	Rep.5	Leaves	RA5	VINTAGE_2020
+F33	RA6_2020	Roditis	RoditisTerA	Aigialeia	Rep.6	Leaves	RA6	VINTAGE_2020
+F34	RB1_2020	Roditis	RoditisTerB	Aigialeia	Rep.1	Leaves	RB1	VINTAGE_2020
+F35	RB2_2020	Roditis	RoditisTerB	Aigialeia	Rep.2	Leaves	RB2	VINTAGE_2020
+F36	RB3_2020	Roditis	RoditisTerB	Aigialeia	Rep.3	Leaves	RB3	VINTAGE_2020
+F37	RB4_2020	Roditis	RoditisTerB	Aigialeia	Rep.4	Leaves	RB4	VINTAGE_2020
+F38	RB5_2020	Roditis	RoditisTerB	Aigialeia	Rep.5	Leaves	RB5	VINTAGE_2020
+F39	RB6_2020	Roditis	RoditisTerB	Aigialeia	Rep.6	Leaves	RB6	VINTAGE_2020
+F4	AA4_2020	Agiorgitiko		Athens	Rep.4	Leaves	AA4	VINTAGE_2020
+F5	AA5_2020	Agiorgitiko		Athens	Rep.5	Leaves	AA5	VINTAGE_2020
+F7	VA1_2020	Vidiano		Athens	Rep.1	Leaves	VA1	VINTAGE_2020
+F8	VA2_2020	Vidiano		Athens	Rep.2	Leaves	VA2	VINTAGE_2020
+F9	VA3_2020	Vidiano		Athens	Rep.3	Leaves	VA3	VINTAGE_2020
+K1	AA1_2020	Agiorgitiko		Athens	Rep.1	Fruit	AA1	VINTAGE_2020
+K10	VA4_2020	Vidiano		Athens	Rep.4	Fruit	VA4	VINTAGE_2020
+K12	VA5_2020	Vidiano		Athens	Rep.5	Fruit	VA5	VINTAGE_2020
+K13	AT1_2020	Agiorgitiko		Thessaloniki	Rep.1	Fruit	AT1	VINTAGE_2020
+K14	AT2_2020	Agiorgitiko		Thessaloniki	Rep.2	Fruit	AT2	VINTAGE_2020
+K15	AT3_2020	Agiorgitiko		Thessaloniki	Rep.3	Fruit	AT3	VINTAGE_2020
+K16	AT4_2020	Agiorgitiko		Thessaloniki	Rep.4	Fruit	AT4	VINTAGE_2020
+K17	AT5_2020	Agiorgitiko		Thessaloniki	Rep.5	Fruit	AT5	VINTAGE_2020
+K18	VT1_2020	Vidiano		Thessaloniki	Rep.1	Fruit	VT1	VINTAGE_2020
+K19	VT2_2020	Vidiano		Thessaloniki	Rep.2	Fruit	VT2	VINTAGE_2020
+K2	AA2_2020	Agiorgitiko		Athens	Rep.2	Fruit	AA2	VINTAGE_2020
+K20	VT3_2020	Vidiano		Thessaloniki	Rep.3	Fruit	VT3	VINTAGE_2020
+K21	VT4_2020	Vidiano		Thessaloniki	Rep.4	Fruit	VT4	VINTAGE_2020
+K22	VT5_2020	Vidiano		Thessaloniki	Rep.5	Fruit	VT5	VINTAGE_2020
+K28	RA1_2020	Roditis	RoditisTerA	Aigialeia	Rep.1	Fruit	RA1	VINTAGE_2020
+K29	RA2_2020	Roditis	RoditisTerA	Aigialeia	Rep.2	Fruit	RA2	VINTAGE_2020
+K3	AA3_2020	Agiorgitiko		Athens	Rep.3	Fruit	AA3	VINTAGE_2020
+K30	RA3_2020	Roditis	RoditisTerA	Aigialeia	Rep.3	Fruit	RA3	VINTAGE_2020
+K31	RA4_2020	Roditis	RoditisTerA	Aigialeia	Rep.4	Fruit	RA4	VINTAGE_2020
+K32	RA5_2020	Roditis	RoditisTerA	Aigialeia	Rep.5	Fruit	RA5	VINTAGE_2020
+K33	RA6_2020	Roditis	RoditisTerA	Aigialeia	Rep.6	Fruit	RA6	VINTAGE_2020
+K34	RB1_2020	Roditis	RoditisTerB	Aigialeia	Rep.1	Fruit	RB1	VINTAGE_2020
+K35	RB2_2020	Roditis	RoditisTerB	Aigialeia	Rep.2	Fruit	RB2	VINTAGE_2020
+K36	RB3_2020	Roditis	RoditisTerB	Aigialeia	Rep.3	Fruit	RB3	VINTAGE_2020
+K37	RB4_2020	Roditis	RoditisTerB	Aigialeia	Rep.4	Fruit	RB4	VINTAGE_2020
+K38	RB5_2020	Roditis	RoditisTerB	Aigialeia	Rep.5	Fruit	RB5	VINTAGE_2020
+K4	AA4_2020	Agiorgitiko		Athens	Rep.4	Fruit	AA4	VINTAGE_2020
+K5	AA5_2020	Agiorgitiko		Athens	Rep.5	Fruit	AA5	VINTAGE_2020
+K7	VA1_2020	Vidiano		Athens	Rep.1	Fruit	VA1	VINTAGE_2020
+K8	VA2_2020	Vidiano		Athens	Rep.2	Fruit	VA2	VINTAGE_2020
+K9	VA3_2020	Vidiano		Athens	Rep.3	Fruit	VA3	VINTAGE_2020
+F23	VC1_2020	Vidiano		Crete	Rep.1	Leaves	VC1	VINTAGE_2020
+F24	VC2_2020	Vidiano		Crete	Rep.2	Leaves	VC2	VINTAGE_2020
+F25	VC3_2020	Vidiano		Crete	Rep.3	Leaves	VC3	VINTAGE_2020
+F26	VC4_2020	Vidiano		Crete	Rep.4	Leaves	VC4	VINTAGE_2020
+F27	VC5_2020	Vidiano		Crete	Rep.5	Leaves	VC5	VINTAGE_2020
+F40	SA1_2020	Sideritis	SideritisTerA	Aigialeia	Rep.1	Leaves	SA1	VINTAGE_2020
+F41	SA2_2020	Sideritis	SideritisTerA	Aigialeia	Rep.2	Leaves	SA2	VINTAGE_2020
+F42	SA3_2020	Sideritis	SideritisTerA	Aigialeia	Rep.3	Leaves	SA3	VINTAGE_2020
+F43	SA4_2020	Sideritis	SideritisTerA	Aigialeia	Rep.4	Leaves	SA4	VINTAGE_2020
+F44	SA5_2020	Sideritis	SideritisTerA	Aigialeia	Rep.5	Leaves	SA5	VINTAGE_2020
+F45	SA6_2020	Sideritis	SideritisTerA	Aigialeia	Rep.6	Leaves	SA6	VINTAGE_2020
+F46	SB1_2020	Sideritis	SideritisTerB	Aigialeia	Rep.1	Leaves	SB1	VINTAGE_2020
+F47	SB2_2020	Sideritis	SideritisTerB	Aigialeia	Rep.2	Leaves	SB2	VINTAGE_2020
+F48	SB3_2020	Sideritis	SideritisTerB	Aigialeia	Rep.3	Leaves	SB3	VINTAGE_2020
+F49	SB4_2020	Sideritis	SideritisTerB	Aigialeia	Rep.4	Leaves	SB4	VINTAGE_2020
+F50	SB5_2020	Sideritis	SideritisTerB	Aigialeia	Rep.5	Leaves	SB5	VINTAGE_2020
+F51	SB6_2020	Sideritis	SideritisTerB	Aigialeia	Rep.6	Leaves	SB6	VINTAGE_2020
+F64	AN1_2020	Agiorgitiko		Nemea	Rep.1	Leaves	AN1	VINTAGE_2020
+F65	AN2_2020	Agiorgitiko		Nemea	Rep.2	Leaves	AN2	VINTAGE_2020
+F66	AN3_2020	Agiorgitiko		Nemea	Rep.3	Leaves	AN3	VINTAGE_2020
+F67	AN4_2020	Agiorgitiko		Nemea	Rep.4	Leaves	AN4	VINTAGE_2020
+F68	AN5_2020	Agiorgitiko		Nemea	Rep.5	Leaves	AN5	VINTAGE_2020
+F69	AN6_2020	Agiorgitiko		Nemea	Rep.6	Leaves	AN6	VINTAGE_2020
+K23	VC1_2020	Vidiano		Crete	Rep.1	Fruit	VC1	VINTAGE_2020
+K24	VC2_2020	Vidiano		Crete	Rep.2	Fruit	VC2	VINTAGE_2020
+K25	VC3_2020	Vidiano		Crete	Rep.3	Fruit	VC3	VINTAGE_2020
+K26	VC4_2020	Vidiano		Crete	Rep.4	Fruit	VC4	VINTAGE_2020
+K27	VC5_2020	Vidiano		Crete	Rep.5	Fruit	VC5	VINTAGE_2020
+K39	RB6_2020	Roditis	RoditisTerB	Aigialeia	Rep.6	Fruit	RB6	VINTAGE_2020
+Ê40	SA1_2020	Sideritis	SideritisTerA	Aigialeia	Rep.1	Fruit	SA1	VINTAGE_2020
+Ê41	SA2_2020	Sideritis	SideritisTerA	Aigialeia	Rep.2	Fruit	SA2	VINTAGE_2020
+Ê42	SA3_2020	Sideritis	SideritisTerA	Aigialeia	Rep.3	Fruit	SA3	VINTAGE_2020
+Ê43	SA4_2020	Sideritis	SideritisTerA	Aigialeia	Rep.4	Fruit	SA4	VINTAGE_2020
+Ê44	SA5_2020	Sideritis	SideritisTerA	Aigialeia	Rep.5	Fruit	SA5	VINTAGE_2020
+Ê45	SA6_2020	Sideritis	SideritisTerA	Aigialeia	Rep.6	Fruit	SA6	VINTAGE_2020
+Ê46	SB1_2020	Sideritis	SideritisTerB	Aigialeia	Rep.1	Fruit	SB1	VINTAGE_2020
+Ê47	SB2_2020	Sideritis	SideritisTerB	Aigialeia	Rep.2	Fruit	SB2	VINTAGE_2020
+Ê48	SB3_2020	Sideritis	SideritisTerB	Aigialeia	Rep.3	Fruit	SB3	VINTAGE_2020
+Ê49	SB4_2020	Sideritis	SideritisTerB	Aigialeia	Rep.4	Fruit	SB4	VINTAGE_2020
+Ê50	SB5_2020	Sideritis	SideritisTerB	Aigialeia	Rep.5	Fruit	SB5	VINTAGE_2020
+Ê51	SB6_2020	Sideritis	SideritisTerB	Aigialeia	Rep.6	Fruit	SB6	VINTAGE_2020
+Ê64	AN2_2020	Agiorgitiko		Nemea	Rep.2	Fruit	AN2	VINTAGE_2020
+Ê65	AN3_2020	Agiorgitiko		Nemea	Rep.3	Fruit	AN3	VINTAGE_2020
+Ê66	AN4_2020	Agiorgitiko		Nemea	Rep.4	Fruit	AN4	VINTAGE_2020
+Ê67	AN5_2020	Agiorgitiko		Nemea	Rep.5	Fruit	AN5	VINTAGE_2020
+Ê68	AN6_2020	Agiorgitiko		Nemea	Rep.6	Fruit	AN6	VINTAGE_2020
+Ê69	AN1_2020	Agiorgitiko		Nemea	Rep.1	Fruit	AN1	VINTAGE_2020
+10K_2020	VA4_2019	Vidiano		Athens	Rep.4	Fruit	VA4	VINTAGE_2019
+12K_2020	VA5_2019	Vidiano		Athens	Rep.5	Fruit	VA5	VINTAGE_2019
+13K_2020	AT1_2019	Agiorgitiko		Thessaloniki	Rep.1	Fruit	AT1	VINTAGE_2019
+14K_2020	AT2_2019	Agiorgitiko		Thessaloniki	Rep.2	Fruit	AT2	VINTAGE_2019
+15K_2020	AT3_2019	Agiorgitiko		Thessaloniki	Rep.3	Fruit	AT3	VINTAGE_2019
+16K_2020	AT4_2019	Agiorgitiko		Thessaloniki	Rep.4	Fruit	AT4	VINTAGE_2019
+17K_2020	AT5_2019	Agiorgitiko		Thessaloniki	Rep.5	Fruit	AT5	VINTAGE_2019
+18K_2020	VT1_2019	Vidiano		Thessaloniki	Rep.1	Fruit	VT1	VINTAGE_2019
+19K_2020	VT2_2019	Vidiano		Thessaloniki	Rep.2	Fruit	VT2	VINTAGE_2019
+1K_2020	AA1_2019	Agiorgitiko		Athens	Rep.1	Fruit	AA1	VINTAGE_2019
+20K_2020	VT3_2019	Vidiano		Thessaloniki	Rep.3	Fruit	VT3	VINTAGE_2019
+21K_2020	VT4_2019	Vidiano		Thessaloniki	Rep.4	Fruit	VT4	VINTAGE_2019
+22K_2020	VT5_2019	Vidiano		Thessaloniki	Rep.5	Fruit	VT5	VINTAGE_2019
+23K_2020	VC1_2019	Vidiano		Crete	Rep.1	Fruit	VC1	VINTAGE_2019
+24K_2020	VC2_2019	Vidiano		Crete	Rep.2	Fruit	VC2	VINTAGE_2019
+25K_2020	VC3_2019	Vidiano		Crete	Rep.3	Fruit	VC3	VINTAGE_2019
+26K_2020	VC4_2019	Vidiano		Crete	Rep.4	Fruit	VC4	VINTAGE_2019
+27K_2020	VC5_2019	Vidiano		Crete	Rep.5	Fruit	VC5	VINTAGE_2019
+28K_2020	RA1_2019	Roditis	RoditisTerA	Aigialeia	Rep.1	Fruit	RA1	VINTAGE_2019
+29K_2020	RA2_2019	Roditis	RoditisTerA	Aigialeia	Rep.2	Fruit	RA2	VINTAGE_2019
+2K_2020	AA2_2019	Agiorgitiko		Athens	Rep.2	Fruit	AA2	VINTAGE_2019
+30K_2020	RA3_2019	Roditis	RoditisTerA	Aigialeia	Rep.3	Fruit	RA3	VINTAGE_2019
+31K_2020	RA4_2019	Roditis	RoditisTerA	Aigialeia	Rep.4	Fruit	RA4	VINTAGE_2019
+32K_2020	RA5_2019	Roditis	RoditisTerA	Aigialeia	Rep.5	Fruit	RA5	VINTAGE_2019
+33K_2020	RA6_2019	Roditis	RoditisTerA	Aigialeia	Rep.6	Fruit	RA6	VINTAGE_2019
+34K_2020	RB1_2019	Roditis	RoditisTerB	Aigialeia	Rep.1	Fruit	RB1	VINTAGE_2019
+35K_2020	RB2_2019	Roditis	RoditisTerB	Aigialeia	Rep.2	Fruit	RB2	VINTAGE_2019
+36K_2020	RB3_2019	Roditis	RoditisTerB	Aigialeia	Rep.3	Fruit	RB3	VINTAGE_2019
+37K_2020	RB4_2019	Roditis	RoditisTerB	Aigialeia	Rep.4	Fruit	RB4	VINTAGE_2019
+38K_2020	RB5_2019	Roditis	RoditisTerB	Aigialeia	Rep.5	Fruit	RB5	VINTAGE_2019
+39K_2020	RB6_2019	Roditis	RoditisTerB	Aigialeia	Rep.6	Fruit	RB6	VINTAGE_2019
+3K_2020	AA3_2019	Agiorgitiko		Athens	Rep.3	Fruit	AA3	VINTAGE_2019
+40K_2020	SA1_2019	Sideritis	SideritisTerA	Aigialeia	Rep.1	Fruit	SA1	VINTAGE_2019
+41K_2020	SA2_2019	Sideritis	SideritisTerA	Aigialeia	Rep.2	Fruit	SA2	VINTAGE_2019
+42K_2020	SA3_2019	Sideritis	SideritisTerA	Aigialeia	Rep.3	Fruit	SA3	VINTAGE_2019
+43K_2020	SA4_2019	Sideritis	SideritisTerA	Aigialeia	Rep.4	Fruit	SA4	VINTAGE_2019
+44K_2020	SA5_2019	Sideritis	SideritisTerA	Aigialeia	Rep.5	Fruit	SA5	VINTAGE_2019
+45K_2020	SA6_2019	Sideritis	SideritisTerA	Aigialeia	Rep.6	Fruit	SA6	VINTAGE_2019
+46K_2020	SB1_2019	Sideritis	SideritisTerB	Aigialeia	Rep.1	Fruit	SB1	VINTAGE_2019
+47K_2020	SB2_2019	Sideritis	SideritisTerB	Aigialeia	Rep.2	Fruit	SB2	VINTAGE_2019
+48K_2020	SB3_2019	Sideritis	SideritisTerB	Aigialeia	Rep.3	Fruit	SB3	VINTAGE_2019
+49K_2020	SB4_2019	Sideritis	SideritisTerB	Aigialeia	Rep.4	Fruit	SB4	VINTAGE_2019
+4K_2020	AA4_2019	Agiorgitiko		Athens	Rep.4	Fruit	AA4	VINTAGE_2019
+50K_2020	SB5_2019	Sideritis	SideritisTerB	Aigialeia	Rep.5	Fruit	SB5	VINTAGE_2019
+51K_2020	SB6_2019	Sideritis	SideritisTerB	Aigialeia	Rep.6	Fruit	SB6	VINTAGE_2019
+5K_2020	AA5_2019	Agiorgitiko		Athens	Rep.5	Fruit	AA5	VINTAGE_2019
+7K_2020	VA1_2019	Vidiano		Athens	Rep.1	Fruit	VA1	VINTAGE_2019
+8K_2020	VA2_2019	Vidiano		Athens	Rep.2	Fruit	VA2	VINTAGE_2019
+9K_2020	VA3_2019	Vidiano		Athens	Rep.3	Fruit	VA3	VINTAGE_2019
+10F_2020	VA4_2019	Vidiano		Athens	Rep.4	Leaves	VA4	VINTAGE_2019
+12F_2020	VA5_2019	Vidiano		Athens	Rep.5	Leaves	VA5	VINTAGE_2019
+13F_2020	AT1_2019	Agiorgitiko		Thessaloniki	Rep.1	Leaves	AT1	VINTAGE_2019
+14F_2020	AT2_2019	Agiorgitiko		Thessaloniki	Rep.2	Leaves	AT2	VINTAGE_2019
+15F_2020	AT3_2019	Agiorgitiko		Thessaloniki	Rep.3	Leaves	AT3	VINTAGE_2019
+16F_2020	AT4_2019	Agiorgitiko		Thessaloniki	Rep.4	Leaves	AT4	VINTAGE_2019
+17F_2020	AT5_2019	Agiorgitiko		Thessaloniki	Rep.5	Leaves	AT5	VINTAGE_2019
+18F_2020	VT1_2019	Vidiano		Thessaloniki	Rep.1	Leaves	VT1	VINTAGE_2019
+19F_2020	VT2_2019	Vidiano		Thessaloniki	Rep.2	Leaves	VT2	VINTAGE_2019
+1F_2020	AA1_2019	Agiorgitiko		Athens	Rep.1	Leaves	AA1	VINTAGE_2019
+20F_2020	VT3_2019	Vidiano		Thessaloniki	Rep.3	Leaves	VT3	VINTAGE_2019
+21F_2020	VT4_2019	Vidiano		Thessaloniki	Rep.4	Leaves	VT4	VINTAGE_2019
+22F_2020	VT5_2019	Vidiano		Thessaloniki	Rep.5	Leaves	VT5	VINTAGE_2019
+23F_2020	VC1_2019	Vidiano		Crete	Rep.1	Leaves	VC1	VINTAGE_2019
+24F_2020	VC2_2019	Vidiano		Crete	Rep.2	Leaves	VC2	VINTAGE_2019
+25F_2020	VC3_2019	Vidiano		Crete	Rep.3	Leaves	VC3	VINTAGE_2019
+26F_2020	VC4_2019	Vidiano		Crete	Rep.4	Leaves	VC4	VINTAGE_2019
+27F_2020	VC5_2019	Vidiano		Crete	Rep.5	Leaves	VC5	VINTAGE_2019
+28F_2020	RA1_2019	Roditis	RoditisTerA	Aigialeia	Rep.1	Leaves	RA1	VINTAGE_2019
+29F_2020	RA2_2019	Roditis	RoditisTerA	Aigialeia	Rep.2	Leaves	RA2	VINTAGE_2019
+2F_2020	AA2_2019	Agiorgitiko		Athens	Rep.2	Leaves	AA2	VINTAGE_2019
+30F_2020	RA3_2019	Roditis	RoditisTerA	Aigialeia	Rep.3	Leaves	RA3	VINTAGE_2019
+31F_2020	RA4_2019	Roditis	RoditisTerA	Aigialeia	Rep.4	Leaves	RA4	VINTAGE_2019
+32F_2020	RA5_2019	Roditis	RoditisTerA	Aigialeia	Rep.5	Leaves	RA5	VINTAGE_2019
+33F_2020	RA6_2019	Roditis	RoditisTerA	Aigialeia	Rep.6	Leaves	RA6	VINTAGE_2019
+34F_2020	RB1_2019	Roditis	RoditisTerB	Aigialeia	Rep.1	Leaves	RB1	VINTAGE_2019
+35F_2020	RB2_2019	Roditis	RoditisTerB	Aigialeia	Rep.2	Leaves	RB2	VINTAGE_2019
+36F_2020	RB3_2019	Roditis	RoditisTerB	Aigialeia	Rep.3	Leaves	RB3	VINTAGE_2019
+37F_2020	RB4_2019	Roditis	RoditisTerB	Aigialeia	Rep.4	Leaves	RB4	VINTAGE_2019
+38F_2020	RB5_2019	Roditis	RoditisTerB	Aigialeia	Rep.5	Leaves	RB5	VINTAGE_2019
+39F_2020	RB6_2019	Roditis	RoditisTerB	Aigialeia	Rep.6	Leaves	RB6	VINTAGE_2019
+3F_2020	AA3_2019	Agiorgitiko		Athens	Rep.3	Leaves	AA3	VINTAGE_2019
+40F_2020	SA1_2019	Sideritis	SideritisTerA	Aigialeia	Rep.1	Leaves	SA1	VINTAGE_2019
+41F_2020	SA2_2019	Sideritis	SideritisTerA	Aigialeia	Rep.2	Leaves	SA2	VINTAGE_2019
+42F_2020	SA3_2019	Sideritis	SideritisTerA	Aigialeia	Rep.3	Leaves	SA3	VINTAGE_2019
+43F_2020	SA4_2019	Sideritis	SideritisTerA	Aigialeia	Rep.4	Leaves	SA4	VINTAGE_2019
+44F_2020	SA5_2019	Sideritis	SideritisTerA	Aigialeia	Rep.5	Leaves	SA5	VINTAGE_2019
+45F_2020	SA6_2019	Sideritis	SideritisTerA	Aigialeia	Rep.6	Leaves	SA6	VINTAGE_2019
+46F_2020	SB1_2019	Sideritis	SideritisTerB	Aigialeia	Rep.1	Leaves	SB1	VINTAGE_2019
+47F_2020	SB2_2019	Sideritis	SideritisTerB	Aigialeia	Rep.2	Leaves	SB2	VINTAGE_2019
+48F_2020	SB3_2019	Sideritis	SideritisTerB	Aigialeia	Rep.3	Leaves	SB3	VINTAGE_2019
+49F_2020	SB4_2019	Sideritis	SideritisTerB	Aigialeia	Rep.4	Leaves	SB4	VINTAGE_2019
+4F_2020	AA4_2019	Agiorgitiko		Athens	Rep.4	Leaves	AA4	VINTAGE_2019
+50F_2020	SB5_2019	Sideritis	SideritisTerB	Aigialeia	Rep.5	Leaves	SB5	VINTAGE_2019
+51F_2020	SB6_2019	Sideritis	SideritisTerB	Aigialeia	Rep.6	Leaves	SB6	VINTAGE_2019
+5F_2020	AA5_2019	Agiorgitiko		Athens	Rep.5	Leaves	AA5	VINTAGE_2019
+7F_2020	VA1_2019	Vidiano		Athens	Rep.1	Leaves	VA1	VINTAGE_2019
+8F_2020	VA2_2019	Vidiano		Athens	Rep.2	Leaves	VA2	VINTAGE_2019
+9F_2020	VA3_2019	Vidiano		Athens	Rep.3	Leaves	VA3	VINTAGE_2019
